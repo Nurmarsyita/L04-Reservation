@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name:</string>
+    <string name="enter_name">Enter name</string>
+    <string name="MobileNumber">Mobile Number:</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="no_of_pax">No. of pax:</string>
+    <string name="enter_no_of_pax">Enter no. of pax</string>
+    <string name="date">Date:</string>
+    <string name="time">Time</string>
+    <string name="preferred_table">Preferred table:</string>
+
+</resources>
